@@ -133,8 +133,30 @@ Contents
 
 
 /*===================================================================================================
-5) Lists
+5) Social media links
 ===================================================================================================*/
+	.socials path, circle {
+		fill: #fff;
+		transition: .2s ease-in;
+    }
+    .socials svg{
+    	max-height: 30px;
+    	max-width: 40px;
+    }
+    
+    .socials a:hover {
+		fill: #999;
+    }
+
+    .footer-socials li {
+    	display: inline;
+    	margin: 30px;
+    }
+
+
+
+
+
 	ul, ol { margin-bottom: 20px; }
 	ul { list-style: none outside; }
 	ol { list-style: decimal; }
