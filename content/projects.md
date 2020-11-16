@@ -1,13 +1,7 @@
 ---
-title: This will be used as the title-tag of the page head
+title: Projects | Su
 ---
 
-hello
-=====
-
-**You are here!**
-
-<!DOCTYPE html>
 <html lang="en">
 <head>
 	<meta charset="utf-8">
