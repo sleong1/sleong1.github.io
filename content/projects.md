@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Su | Projects
-permalink: /projects
+permalink: /content/projects/
 ---
 
 <html lang="en">
