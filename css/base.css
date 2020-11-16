@@ -89,18 +89,25 @@ Contents
 /*===================================================================================================
 4) Navigation bar
 ===================================================================================================*/
+    #hello {
+    	font-size: 75px;
+    }
+    #home div {
+    	margin-top: 200px;
+    	margin-bottom: 200px;
+    }
     .navbar ul { 
       margin: 0 auto; 
       padding: 0; 
       list-style: none; 
       display: table;
       text-align: center;
+      width: 100%;
     }
     .navbar li { 
       display: table-cell; 
       position: relative; 
       padding: 15px 0;
-      font-size: 20px;
     }
 
     .navbar a, a:visited {
@@ -108,6 +115,7 @@ Contents
       text-decoration: none;
       text-transform: uppercase;
       letter-spacing: 0.15em;
+      font-size: 20px;
       display: inline-block;
       padding: 15px 20px;
       position: relative;
@@ -135,16 +143,14 @@ Contents
 /*===================================================================================================
 5) Social media links
 ===================================================================================================*/
-	.socials path, circle {
+	.socials svg {
 		fill: #fff;
 		transition: .2s ease-in;
-    }
-    .socials svg{
     	max-height: 30px;
     	max-width: 40px;
     }
     
-    .socials a:hover {
+    .socials svg:hover {
 		fill: #999;
     }
 
@@ -153,7 +159,18 @@ Contents
     	margin: 30px;
     }
 
-
+/*===================================================================================================
+6) Project page formatting
+===================================================================================================*/
+	.projects {
+		font-family: Segoe UI, sans-serif;
+	}
+	.projects h3 {
+		font-weight: bold;
+	}
+	.projects p {
+		font-size: 16px;
+	}
 
 
 
@@ -172,9 +189,7 @@ Contents
 	ul.large li { line-height: 21px; }
 	li p { line-height: 21px; }
 
-/*===================================================================================================
-6) Images
-===================================================================================================*/
+
 	img.scale-with-grid {
 		max-width: 100%;
 		height: auto; }
@@ -1045,11 +1060,11 @@ a, button {
 }
 
 a, a:visited {
-	color: #333;
+	color: #fff;
 }
 
-a:hover, a:active, a:focus, #heroNav a:hover, #heroNav a:visited:hover, #heroNav a:active, #heroNav a:focus, #formSubmit:hover, .contentModule a:hover, .contentModule a:visited:hover, .contentModule a:active, .contentModule a:focus { color: #777777; } {
-	color: #888;
+a:hover, a:active, a:focus, #heroNav a:hover, #heroNav a:visited:hover, #heroNav a:active, #heroNav a:focus, #formSubmit:hover, .contentModule a:hover, .contentModule a:visited:hover, .contentModule a:active, .contentModule a:focus {
+	color: #fff;
 }
 
 nav {
@@ -1097,7 +1112,7 @@ nav ul li button:hover, .projectNav button:hover {
 }
 
 nav ul li button:hover, nav ul li button:active, nav ul li button:focus, nav ul li a:hover, nav ul li a:active, nav ul li a:focus {
-	color: #888;
+	color: #fff;
 	outline: 0;
 }
 
