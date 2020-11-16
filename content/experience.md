@@ -2,10 +2,6 @@
 title: experience
 ---
 
-hello
-=====
-
-<!DOCTYPE html>
 <html lang="en">
 <head>
 	<meta charset="utf-8">
@@ -16,6 +12,7 @@ hello
 	
 
 	<link rel="stylesheet" href="../css/base.css"/>
+    <link rel="stylesheet" href="../css/timeline.css"/>
 </head>
 
 
