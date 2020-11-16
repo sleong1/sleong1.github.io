@@ -163,6 +163,7 @@ Contents
 6) Project page formatting
 ===================================================================================================*/
 	.projects {
+		border: none;
 		font-family: Segoe UI, sans-serif;
 	}
 	.projects h3 {
