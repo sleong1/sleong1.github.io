@@ -1,5 +1,7 @@
 ---
-title: Projects | Su
+layout: page
+title: Su | Projects
+permalink: /projects
 ---
 
 <html lang="en">
