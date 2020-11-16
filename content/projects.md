@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Su | Projects
-permalink: /content/
 ---
 
 <html lang="en">
