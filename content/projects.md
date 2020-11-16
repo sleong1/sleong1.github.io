@@ -33,6 +33,8 @@ title: Su | Projects
 
     <h1>Projects</h1>
 
+    <p>Some projects I've worked on</p>
+
 	<div class="row projects">
 		<div class="eight columns">
 			<h4>< Place image here ></h4>
@@ -50,7 +52,6 @@ title: Su | Projects
 	</div>
 
 	<!-- Footer -->
-	<hr/>
 	<footer class="sixteen columns">
 		<ul class="footer-socials">
         	<li>
