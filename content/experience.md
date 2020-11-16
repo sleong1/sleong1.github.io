@@ -35,7 +35,6 @@ title: experience
         <div id="work-history" class="sixteen columns">
             <h1>My Work Experience </h1>
         </div>
-        <hr/>
         <div class="timeline">
             <div class="timeline-container left">
                 <div class="timeline content">

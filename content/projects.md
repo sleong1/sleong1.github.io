@@ -1,7 +1,7 @@
-<!-- ---
+---
 title: Projects | Su
 ---
- -->
+
 <html lang="en">
 <head>
 	<meta charset="utf-8">
@@ -31,7 +31,6 @@ title: Projects | Su
     </div>
 
     <h1>Projects</h1>
-    <hr/>
 
 	<div class="row projects">
 		<div class="eight columns">
