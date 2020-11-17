@@ -58,7 +58,7 @@ title: Su | Experience
                     <h4> | 2018-2019</h4>
                     <h4 style="display:block">UTS Magic Lab</h4>
                     <p>Created navigation stack using various sensor inputs, including laser and depth camera</p>
-                    <p>Used python to </p>
+                    <p>Used python to create APIs for various robot functions</p>
                 </div>
             </div>
             <div class="timeline-container right">
@@ -68,6 +68,15 @@ title: Su | Experience
                     <h4 style="display:block">University of Technology Sydney</h4>
                     <p>Tutored university students in subjects considered difficult.</p>
                     <p>Prepared worksheets and activities to encourage student learning.</p>
+                </div>
+            </div>
+            <div class="timeline-container left">
+                <div class="timeline content">
+                    <h3>Student Promotions Representative</h3>
+                    <h4> | 2017-2020</h4>
+                    <h4 style="display:block">University of Technology Sydney</h4>
+                    <p>Facilitate STEM workshops for primary school, high school and new university students</p>
+                    <p>Organise Open Day tour routes and demonstration.</p>
                 </div>
             </div>
         </div>
