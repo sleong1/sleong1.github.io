@@ -1,13 +1,8 @@
----
-layout: page
-title: Su | Projects
----
-
 <html lang="en">
 <head>
 	<meta charset="utf-8">
-	<title>Su | Roboticist | Programmer</title>
-	<meta name="description" content="Suwen Leong | Roboticist | Programmer"/>
+	<title>Su | Projects</title>
+	<meta name="description" content="Project page displaying a selection of projects I've worked on"/>
 	<meta name="author" content="Suwen Leong"/>
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
 	
@@ -32,8 +27,6 @@ title: Su | Projects
     </div>
 
     <h1>Projects</h1>
-
-    <p>Some projects I've worked on</p>
 
 	<div class="row projects">
 		<div class="eight columns">

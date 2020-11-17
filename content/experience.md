@@ -5,8 +5,8 @@ title: experience
 <html lang="en">
 <head>
 	<meta charset="utf-8">
-	<title>Su | Roboticist | Programmer</title>
-	<meta name="description" content="Suwen Leong | Roboticist | Programmer"/>
+	<title>Su | Experience</title>
+	<meta name="description" content="My Work Experience"/>
 	<meta name="author" content="Suwen Leong"/>
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
 	
@@ -35,7 +35,7 @@ title: experience
         <div id="work-history" class="sixteen columns">
             <h1>My Work Experience </h1>
         </div>
-        <div class="timeline">
+        <div class="sixteen columns timeline">
             <div class="timeline-container left">
                 <div class="timeline content">
                     <h3>Crew member </h3>
