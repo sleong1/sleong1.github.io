@@ -63,15 +63,6 @@ title: Su | Experience
             </div>
             <div class="timeline-container right">
                 <div class="timeline content">
-                    <h3>UPASS Leader</h3>
-                    <h4> | 2018-2020</h4>
-                    <h4 style="display:block">University of Technology Sydney</h4>
-                    <p>Tutored university students in subjects considered difficult.</p>
-                    <p>Prepared worksheets and activities to encourage student learning.</p>
-                </div>
-            </div>
-            <div class="timeline-container left">
-                <div class="timeline content">
                     <h3>Student Promotions Representative</h3>
                     <h4> | 2017-2020</h4>
                     <h4 style="display:block">University of Technology Sydney</h4>
@@ -79,6 +70,16 @@ title: Su | Experience
                     <p>Organise Open Day tour routes and demonstration.</p>
                 </div>
             </div>
+            <div class="timeline-container left">
+                <div class="timeline content">
+                    <h3>UPASS Leader</h3>
+                    <h4> | 2018-2020</h4>
+                    <h4 style="display:block">University of Technology Sydney</h4>
+                    <p>Tutored university students in subjects considered difficult.</p>
+                    <p>Prepared worksheets and activities to encourage student learning.</p>
+                </div>
+            </div>
+
         </div>
     </div>
 
